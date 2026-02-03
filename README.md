@@ -46,6 +46,6 @@ After fine-tuning, the models showed substantial improvement:
 - **Version Control:** GitHub
 
 ## 👨‍💻 Author
-[Your Name]
-- University: [Your University Name]
-- Degree: [Your Degree Program, e.g., BSc Computer Science]
+[Muhammad Idrees]
+- University: [IMSciences, Peshawar]
+- Degree: [Data Science]
