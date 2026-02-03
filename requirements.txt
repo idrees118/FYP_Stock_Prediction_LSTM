@@ -11,6 +11,5 @@ tensorflow==2.19.0
 matplotlib==3.10.0
 seaborn==0.13.2
 
-# Additional Utilities
+# Additional Utilities for Time-Series Analysis
 statsmodels==0.14.6
-yfinance==0.2.66  # For fetching stock data
