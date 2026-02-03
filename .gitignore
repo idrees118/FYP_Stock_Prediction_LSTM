@@ -1,0 +1,15 @@
+# Ignore data files (you should not upload these to GitHub)
+*.csv
+*.pkl
+*.h5
+*.keras
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.env
+venv/
+
+# Ignore Colab/Jupyter notebooks checkpoints and system files
+.ipynb_checkpoints/
+.DS_Store
